@@ -26,7 +26,7 @@ This is an educational project meant to illustrate the **inner workings of neura
 ### 1. Install Dependencies
 
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ### 2. Run the Notebook
@@ -142,7 +142,7 @@ This project helps understand:
 
 ## 📈 Sample Results
 
-![Training Plot](training_accuracy_loss_plot.png)
+![Training Plot](training_metrics.png)
 
 > 📌 *You can save the loss/accuracy plot as PNG inside the notebook using `plt.savefig('training_accuracy_loss_plot.png')`.*
 
