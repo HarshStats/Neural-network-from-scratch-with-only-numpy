@@ -41,10 +41,9 @@ The following plot shows the training accuracy and loss over the course of train
 After hyperparameter tuning, the best hidden layer size and regularization strength were selected. The final model was evaluated as follows:
 
 - **Validation (Dev) Accuracy:**  
-  _e.g.,_ `0.92` (replace with your actual result)
-
+  _e.g.,_ `0.92` 
 - **Test Accuracy:**  
-  _e.g.,_ `0.91` (replace with your actual result)
+  _e.g.,_ `0.91` 
 
 Sample predictions and their corresponding true labels are printed in the notebook for qualitative assessment.
 
